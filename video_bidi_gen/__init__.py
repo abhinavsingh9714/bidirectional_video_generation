@@ -1,0 +1,1 @@
+# Init for video_bidi_gen

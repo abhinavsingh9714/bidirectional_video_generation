@@ -1,0 +1,15 @@
+README.md
+pyproject.toml
+setup.py
+video_bidi_gen/__init__.py
+video_bidi_gen.egg-info/PKG-INFO
+video_bidi_gen.egg-info/SOURCES.txt
+video_bidi_gen.egg-info/dependency_links.txt
+video_bidi_gen.egg-info/requires.txt
+video_bidi_gen.egg-info/top_level.txt
+video_bidi_gen/configs/__init__.py
+video_bidi_gen/data/__init__.py
+video_bidi_gen/inference/__init__.py
+video_bidi_gen/models/__init__.py
+video_bidi_gen/scripts/__init__.py
+video_bidi_gen/training/__init__.py

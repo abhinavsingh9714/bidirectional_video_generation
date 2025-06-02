@@ -1,0 +1,16 @@
+Metadata-Version: 2.4
+Name: video_bidi_gen
+Version: 0.1
+Requires-Dist: torch
+Requires-Dist: torchvision
+Requires-Dist: transformers
+Requires-Dist: webdataset
+Requires-Dist: opencv-python
+Requires-Dist: tqdm
+Requires-Dist: Pillow
+Requires-Dist: boto3
+Requires-Dist: s3fs
+Requires-Dist: einops
+Requires-Dist: omegaconf
+Requires-Dist: lpips
+Dynamic: requires-dist
