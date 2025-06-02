@@ -1,0 +1,13 @@
+torch
+torchvision
+transformers
+webdataset
+opencv-python
+tqdm
+Pillow
+boto3
+s3fs
+einops
+omegaconf
+lpips
+
