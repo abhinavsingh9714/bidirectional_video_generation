@@ -4,3 +4,7 @@ __pycache__/
 outputs/
 *.tar
 .DS_Store
+*.mp4
+*.jpg
+/images/
+/videos/
